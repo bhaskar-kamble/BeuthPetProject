@@ -1,0 +1,7 @@
+organization=bhaskar-kamble-github
+projectKey=bhaskar-kamble_BeuthPetProject
+serverUrl=https://sonarcloud.io
+serverVersion=7.6.0.21127
+dashboardUrl=https://sonarcloud.io/dashboard?id=bhaskar-kamble_BeuthPetProject
+ceTaskId=AWhSXXFSGmo3yPk3KEcE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWhSXXFSGmo3yPk3KEcE
